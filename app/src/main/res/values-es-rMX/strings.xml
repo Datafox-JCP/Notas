@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="title">Notas</string>
+    <string name="filename">Nombre del archivo</string>
+    <string name="hint_enter_notes">Ingresa tus notas aquí</string>
+    <string name="read">Leer</string>
+    <string name="write">Escribir</string>
+    <string name="delete">Borrar</string>
+    <string name="file_write_failed">Error al escribir archivo</string>
+    <string name="provide_filename">Favor de ingresar el nombre de archivo</string>
+    <string name="file_read_failed">Error al leer el archivo</string>
+    <string name="file_deleted">Archivo borrado</string>
+    <string name="file_could_not_be_deleted">El archivo no pudo borrarse</string>
+    <string name="file_delete_failed">Error al norrar el archivo</string>
+</resources>

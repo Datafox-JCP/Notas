@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Notes</string>
+    <string name="filename">Filename</string>
+    <string name="hint_enter_notes">Enter notes here</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="delete">Delete</string>
+    <string name="file_write_failed">File Write Failed</string>
+    <string name="provide_filename">Please provide a Filename</string>
+    <string name="file_read_failed">File Read Failed</string>
+    <string name="file_deleted">File Deleted</string>
+    <string name="file_could_not_be_deleted">File Could Not Be Deleted</string>
+    <string name="file_delete_failed">File Delete Failed</string>
+</resources>
