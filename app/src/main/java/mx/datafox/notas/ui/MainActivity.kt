@@ -13,7 +13,7 @@ import mx.datafox.notas.utils.showToast
 
 class MainActivity : AppCompatActivity() {
 
-    // 1 la variable lazy implementa el NoteRepository, está inicialización se realiza la primera vez que se use repo (al hacer clic en un botón)
+    // 1 La variable lazy implementa el NoteRepository, está inicialización se realiza la primera vez que se use repo (al hacer clic en un botón)
     //private val repo: NoteRepository by lazy { InternalFileRepository(this) }
     // Para usar el almacenamiento externo
     private val repo: NoteRepository by lazy { ExternalFileRepository(this) }
